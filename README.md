@@ -1,6 +1,6 @@
 # Yellow
 
-## Technical Documentation
+## User Documentation
 
 ### Diplaying file and capturing network layout
 
