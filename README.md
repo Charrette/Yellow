@@ -37,6 +37,6 @@ Reset button clear all fields and let you forge a new packet from scratch.
 
 ### Next header
 
-![Alt text](/images/lock4.png?raw=true "Index 1")
+![Alt text](/images/lock5.png?raw=true "Index 1")
 
 Here is the result when clicking on next on ethernet header, it sends you to next header: the IP header
